@@ -56,9 +56,7 @@ The logo maintains strong visual clarity and brand consistency across both web a
 
 <img width="414" height="896" alt="1" src="https://github.com/user-attachments/assets/5e73e0ba-a1a0-4e9e-a698-8a0d701f5882" />
 
-
 <img width="414" height="896" alt="2" src="https://github.com/user-attachments/assets/af6e86f8-dabd-4c19-9fe7-d7e9ec4650fb" />
-
 
 <img width="414" height="896" alt="3" src="https://github.com/user-attachments/assets/2d6abc45-33fb-4621-9e71-f378540eba28" />
 
