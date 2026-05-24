@@ -62,8 +62,11 @@ The logo maintains strong visual clarity and brand consistency across both web a
 
 <img width="414" height="896" alt="3" src="https://github.com/user-attachments/assets/2d6abc45-33fb-4621-9e71-f378540eba28" />
 
+<img width="414" height="896" alt="1" src="https://github.com/user-attachments/assets/5e73e0ba-a1a0-4e9e-a698-8a0d701f5882" />
+
+
 ## Logo:
-<img width="900" height="900" alt="tEENNOVA" src="https://github.com/user-attachments/assets/0a5b4362-98cf-4553-8f33-68229285f978" />
+<img width="600" height="500" alt="tEENNOVA" src="https://github.com/user-attachments/assets/0a5b4362-98cf-4553-8f33-68229285f978" />
 
 ## Result:
 The basic mobile and web layout design for the “TeenNova” T-shirt shopping application was successfully created by applying Gestalt principles, UI elements, interaction behaviors, usability principles, and branding guidelines.
